@@ -1,3 +1,8 @@
+
+
+### This code is associated with the paper from Tian et al., "Allosteric mechanism of the V. vulnificus adenine riboswitch resolved by four-dimensional chemical mapping". eLife, 2017. http://dx.doi.org/10.7554/eLife.29602
+
+
 # M2R Simulations
 
 *RFAM simulations of mutate-map-rescue quartets and helix frequency estimates*
